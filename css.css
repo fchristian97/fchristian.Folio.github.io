@@ -1,1 +1,20 @@
 
+body{
+  /** background-color: #99ffcc; **/
+ background-color: linear-gradient(to bottom left, #66ff99 0%, #6666ff 100%);
+}
+h1{
+  text-Align: center;
+  color: #26A69A;
+  background-color:#ddd;padding:15px
+}
+#header-img{
+  width:75px; 
+  display:flex;
+}
+p{
+  text-align: center;
+}
+@media{
+  
+}
